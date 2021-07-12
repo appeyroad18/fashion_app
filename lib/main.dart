@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       backgroundColor: Colors.grey,
       body: Background(
-        imagePath: 'image/background.jpg',
+        imagePath: 'assets/image/background.jpg',
         child: Center(
           child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
